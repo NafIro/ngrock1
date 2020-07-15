@@ -18,7 +18,6 @@ public class JavaApplication4 {
         // TODO code application logic here
         System.out.println("Bonjour "+args[1]+", " +args[0]);
         System.out.println("Au revoir trés cher!");
-        System.out.println("Au revoir trés cher!");
     }
     
 }
